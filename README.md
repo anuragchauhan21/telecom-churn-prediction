@@ -1,5 +1,4 @@
 # 📞 Telecom Customer Churn Analysis
-![./images/churn_by_services.png](https://github.com/anuragchauhan21/telecom-churn-analysis/blob/main/churn_by_services.png)
 This project explores **customer churn behavior** for a telecom company using Exploratory Data Analysis (EDA). The goal is to uncover patterns and factors that influence why customers leave the service, and to generate actionable business recommendations.
 
 ---
